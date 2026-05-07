@@ -50,7 +50,7 @@ I just happen to enjoy solving those problems.
 
 Tech Stack
 Frontend
-<p> <img src="https://skillicons.dev/icons?i=react,react-native,vue,ts,js,html,css,sass,bootstrap,firebase" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=react,vue,ts,js,html,css,sass,bootstrap,firebase" /> </p>
 Backend & Cloud
 <p> <img src="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet,aws,docker,postgres,mysql" /> </p>
 AI / ML
