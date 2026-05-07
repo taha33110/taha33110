@@ -56,7 +56,8 @@ Backend & Cloud
 AI / ML
 <p> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" /> </p>
 
-What I Work On
+<h1>What I Work On</h1>
+<p>
 AI-powered applications
 Machine Learning models
 Neural Networks & CNN experiments
@@ -68,8 +69,10 @@ API development
 Data transformation pipelines
 Authentication systems
 RAG-based AI systems
+</p>
 
-Featured Experience
+<h1>Featured Experience</h1>
+<p>
 AI & Machine Learning
 Working with ML pipelines and model training
 Exploring Neural Networks and CNN architectures
@@ -86,27 +89,26 @@ AWS Lambda & API Gateway
 Docker-based workflows
 RDS & database management
 CI/CD-friendly architectures
+</p>
 
-Current Projects
+<h1>Current Projects</h1>
+
+<p>
 AI-integrated full stack applications
 Heartbeat analysis system using CNNs
 Smart data processing systems
 Advanced authentication systems
 Real-time monitoring applications
+</p>
 
 
-GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=taha33110&show_icons=true&theme=tokyonight" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taha33110&layout=compact&theme=tokyonight" height="170" /> </p>
 
-Contribution Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=taha33110&theme=tokyo-night" /> </p>
 
-Connect With Me
+<h1>Connect With Me</h1>
 <p> <a href="https://github.com/YOUR_USERNAME"> <img src="https://skillicons.dev/icons?i=github" /> </a> <a href="https://linkedin.com/in/YOUR_LINKEDIN"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> </p>
 
-<p align="center"> <i> Building AI systems while pretending production deployments are emotionally stable events. </i> </p> ```
+<p align="center"> <i> Building AI systems while pretending production deployments are emotionally stable events. </i> </p>
 
-Replace:
 
 taha33110
 https://www.linkedin.com/in/muhammad-taha-79663b214/
