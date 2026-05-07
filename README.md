@@ -105,10 +105,9 @@ Real-time monitoring applications
 
 
 <h1>Connect With Me</h1>
-<p> <a href="https://github.com/YOUR_USERNAME"> <img src="https://skillicons.dev/icons?i=github" /> </a> <a href="https://linkedin.com/in/YOUR_LINKEDIN"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> </p>
+<p> <a href="https://github.com/taha33110"> <img src="https://skillicons.dev/icons?i=github" /> </a> <a href="https://www.linkedin.com/in/muhammad-taha-79663b214/"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> </p>
 
 <p align="center"> <i> Building AI systems while pretending production deployments are emotionally stable events. </i> </p>
 
 
-taha33110
-https://www.linkedin.com/in/muhammad-taha-79663b214/
+
